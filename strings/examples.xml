@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<langlist>
+    <lang xml:lang="en"    filename="example-en.xml"/>
+    <lang xml:lang="sv"    filename="example-sv.xml"/>
+    <lang xml:lang="ru"    filename="example-ru.xml"/>
+</langlist>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="org.metadita.pdf.examplelist">
+    <feature extension="org.dita.pdf2.xsl.topicmerge" file="xsl/merge-examplelist.xsl"/>
+    <feature extension="dita.xsl.xslfo" file="xsl/examplelist.xsl"/>
+    <feature extension="dita.xsl.strings" file="strings/examples.xml"/>
+</plugin>
